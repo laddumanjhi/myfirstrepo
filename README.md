@@ -7,6 +7,13 @@ Hello! 👋 I'm Kajal Manjhi, a second-year engineering student with a passion f
 - **Year:** 2nd Year Engineering Student
 - **Interests:** Exploring new technologies, coding, and expanding my knowledge.
 
+## 🔥 **Featured Languages**
+- 🟦 **C** – Powerful and efficient for system programming.
+- 🟧 **C++** – Object-oriented and highly versatile.
+- 🐍 **Python** – Easy to read, great for AI & data science.
+- ⚛ **React JS** – Modern framework for interactive UI development.
+
+
 ## Repository Overview
 This repository is a collection of my initial projects, experiments, and learning activities as I navigate through my engineering studies. Expect to find:
 - Sample code snippets
